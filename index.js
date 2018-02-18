@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 process.stdout.write(makeworker(process.argv[2]))
 function makeworker (version) {
   return `var worker = new Worker('/assets/js/worker-${version}.js')
