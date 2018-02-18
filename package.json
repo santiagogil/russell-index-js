@@ -3,6 +3,7 @@
   "version": "0.0.0-development",
   "description": "It writes an index.js file on standard output for russell that uses a versioned web worker.",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
     "test": "standard && nsp check && istanbul cover tape test.js && codecov",
     "commit": "git-cz",
