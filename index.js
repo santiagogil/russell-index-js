@@ -84,7 +84,7 @@ worker.onmessage = function onmsg (ev) {
       }
     }
     )
-    if (url.split('/').length > 3) window.scroll(0,0)
+    if (url.split('/').length > 2) window.scroll(0,0)
   })
 }
 
