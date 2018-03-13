@@ -34,7 +34,7 @@
     "istanbul": "*",
     "write-good": "*",
     "travis-deploy-once": "^4.3.4",
-    "semantic-release": "^12.4.1"
+    "semantic-release": "^15.0.0"
   },
   "config": {
     "commitizen": {
