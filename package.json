@@ -29,7 +29,7 @@
     "nsp": "*",
     "commitizen": "*",
     "cz-conventional-changelog": "*",
-    "semantic-release-cli": ">=4.0.1",
+    "semantic-release-cli": ">=4.0.8",
     "codecov": "*",
     "istanbul": "*",
     "write-good": "*",
