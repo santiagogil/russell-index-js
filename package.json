@@ -27,7 +27,7 @@
     "tape": "*",
     "standard": "*",
     "nsp": "*",
-    "commitizen": "*",
+    "commitizen": ">=3.0.7",
     "cz-conventional-changelog": "*",
     "semantic-release-cli": ">=4.0.1",
     "codecov": "*",
