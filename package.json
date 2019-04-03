@@ -30,7 +30,7 @@
     "commitizen": "*",
     "cz-conventional-changelog": "*",
     "semantic-release-cli": ">=4.0.1",
-    "codecov": "*",
+    "codecov": ">=3.3.0",
     "istanbul": "*",
     "write-good": "*",
     "travis-deploy-once": "^5.0.0",
