@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/santiagogil/russell-index-js#readme",
   "devDependencies": {
-    "tape": "*",
+    "tape": ">=5.0.1",
     "standard": "*",
     "nsp": "*",
     "commitizen": "*",
